@@ -2,7 +2,8 @@ gstreamer1.0-x gstreamer1.0-omx gstreamer1.0-plugins-base gstreamer1.0-plugins-g
 qpdfview gtk2-engines alsa-utils
 git
 mpv
-i3 i3bar rofi dmenu 
+i3 rofi 
+suckless-tools 
 zathura 
 zsh 
 gvfs
@@ -10,7 +11,8 @@ rfkill
 gldriver-test
 obconf
 xorg
-firefox
+xinit
 tree
+firefox-esr
 
 
